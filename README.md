@@ -27,7 +27,8 @@ cupertino_icons (for CupertinoPicker)
 
 - - - - - - - - - - - - - - - - - - - - - 
 
-lib/
+# lib
+
 models/
    ── coin.dart
    ── exchange.dart
