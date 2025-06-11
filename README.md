@@ -1,8 +1,9 @@
 
-🧠 Prompt: Flutter App with MVVM + REST API (Crypto Info)
+#🧠 Prompt: Flutter App with MVVM + REST API (Crypto Info)
+
 Create a Flutter app that fetches cryptocurrency market data and derivatives exchange data from the CoinGecko REST API, using MVVM architecture.
 
-Requirements:
+## Requirements:
 Use MVVM pattern to separate logic.
 Create a reusable NetworkService to perform generic API requests.
 Define API base URL https://api.coingecko.com/api/v3/ and two endpoints:
@@ -19,7 +20,7 @@ Exchange name, country, and year (for exchanges)
 On API failure, display an Alert with the title: "Request is Failured"
 Set the Navigation title to "Crypto Info"
 
-🔧 Libraries to Use
+## 🔧 Libraries to Use
 http (for REST API calls)
 provider (for MVVM state management)
 cached_network_image (for loading images)
