@@ -1,5 +1,5 @@
 
-#Prompt: Flutter App with MVVM + REST API (Crypto Info)
+## 🧠 Prompt: Flutter App with MVVM + REST API (Crypto Info)
 
 Create a Flutter app that fetches cryptocurrency market data and derivatives exchange data from the CoinGecko REST API, using MVVM architecture.
 
