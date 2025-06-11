@@ -28,16 +28,20 @@ cupertino_icons (for CupertinoPicker)
 - - - - - - - - - - - - - - - - - - - - - 
 
 lib/
-├── models/
-│   ├── coin.dart
-│   └── exchange.dart
-├── services/
-│   └── network_service.dart
-├── view_models/
-│   └── crypto_view_model.dart
-├── views/
-│   └── crypto_info_screen.dart
-└── main.dart
+models/
+   ── coin.dart
+   ── exchange.dart
+   
+services/
+   ── network_service.dart
+   
+ view_models/
+   ─ crypto_view_model.dart
+   
+views/
+  ── crypto_info_screen.dart
+  
+main.dart
 
 # CryptoApp
 
